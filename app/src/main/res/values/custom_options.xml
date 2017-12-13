@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="custom_options">
+        <attr name="textViewWidth" format="integer"/>
+        <attr name="editTextWidth" format="integer"/>
+        <attr name="buttonWidth" format="integer"/>
+    </declare-styleable>
+
+</resources>
